@@ -1,0 +1,11 @@
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+opencadpro
+opencadpro.exe
+opencadpro_tests
+*.o
+*.obj.tmp
